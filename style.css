@@ -1,0 +1,107 @@
+h6 {
+  border-style: dashed;
+  margin-top: -27px;
+  margin-bottom: 50px;
+  background-color: rgb(80, 128, 196);
+}
+
+h1 {
+  text-align: center;
+  background-color: antiquewhite;
+  font-size: 40px;
+  margin-top: -4px;
+  height: 80px;
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+  background-color: rgb(254, 98, 98);
+  margin-top: -30px;
+  margin-bottom: -10;
+}
+
+img {
+  margin-top: 10px;
+  margin-right: 50px;
+}
+
+#mystance {
+  background-color: antiquewhite;
+  width: 1000px;
+  height: fit-content;
+  text-align: left;
+  font-size: 20px;
+  font-style: italic;
+  margin-top: 20px;
+  border-style: solid;
+  border-width: 2px;
+  margin-bottom: 80px;
+}
+
+div {
+  background-color: white;
+  width: auto;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(80, 128, 196);
+}
+
+h2 {
+  margin-top: -30px;
+  margin-bottom: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  border-style: solid;
+  border-width: 5px;
+  width: 200px;
+  text-align: center;
+  margin-left: 210px;
+  background-color: whitesmoke;
+}
+
+h3 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border-style: outset;
+  background-color: aliceblue;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#education {
+  border-color: gold;
+  border-width: 5px;
+  width: 100px;
+}
+
+#inflation {
+  border-color: chartreuse;
+  border-width: 5px;
+  width: 100px;
+}
+
+#healthcare {
+  border-color: blue;
+  border-width: 5px;
+  width: 150px;
+}
+
+a {
+  font-size: 20px;
+  color: black;
+  text-decoration: underline;
+}
+#hersite {
+  background-color: aliceblue;
+  border-style: solid;
+  height: fit-content;
+  width: 300px;
+  text-align: center;
+}
